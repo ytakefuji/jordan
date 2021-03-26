@@ -1,4 +1,4 @@
-# Jordan must mitigate the covid-19 pandemic by a robust digital fence and high sensitivity PCT test.
+# Jordan must mitigate the covid-19 pandemic by a robust digital fence and high sensitivity PCR test.
 
 <pre>
 0. Python libraries installation is needed to run animedaily.py
